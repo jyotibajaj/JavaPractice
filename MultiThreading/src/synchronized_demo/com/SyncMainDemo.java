@@ -1,4 +1,5 @@
-package multithreading_practice.com;
+package synchronized_demo.com;
+
 
 public class SyncMainDemo {
 	public static void main(String[] args){

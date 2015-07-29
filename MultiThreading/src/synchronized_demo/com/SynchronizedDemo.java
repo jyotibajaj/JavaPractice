@@ -1,4 +1,4 @@
-package multithreading_practice.com;
+package synchronized_demo.com;
 
 public class SynchronizedDemo implements Runnable {
 	Thread thread;
