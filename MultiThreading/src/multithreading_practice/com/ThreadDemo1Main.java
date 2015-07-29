@@ -4,6 +4,8 @@ public class ThreadDemo1Main {
 
 	public static void main(String[] args) {
 		new ThreadDemo1();
+		
+		
 		try {
 			for (int i = 5; i > 0; i--) {
 				System.out.println("MainThread " + i);
