@@ -5,6 +5,8 @@ ipse
 .project
 .metadata
 bin/**
+bin
+*.class
 tmp/**
 tmp/**/*
 *.tmp
